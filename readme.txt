@@ -7,5 +7,6 @@ Here I create a new branch called dev and I want to revise it.
 
 Handling the branch control.
 Try to turn off the fast forward
+Pull harder.
 
 Author: zheng
