@@ -1,4 +1,4 @@
 Git is a distributed version control software.
-It is free for use.
+Git is free software distributed under the GPL.
 
 Author: zheng
